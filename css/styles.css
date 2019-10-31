@@ -1,0 +1,21 @@
+body {
+  font-family: 'Spectral';
+  font-size: 20px;
+  color: #b8f1ff;
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 100px;
+}
+
+
+#ok {
+  display: none;
+}
+
+
+#output {
+
+}
